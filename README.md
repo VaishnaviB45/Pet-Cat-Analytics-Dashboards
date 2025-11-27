@@ -127,3 +127,6 @@ It demonstrates strong skills in Power BI, data visualization, and dashboard des
 
 Vaishnavi Bacche
 Power BI | Data Analytics | Excel | SQL | Python
+
+Screenshot of page one - https://github.com/VaishnaviB45/Pet-Cat-Analytics-Dashboards/blob/main/pet%20cat%20analytics%20dashboard%20page%201.png
+Screenshot og page two - 
